@@ -41,5 +41,9 @@ To run this project locally, follow these steps:
 - Conditional Rendering : Displaying components conditionally based on the application's state.
 - Event Handling : Handling user interactions like creating, editing, and deleting notes.
 
+  ![keeper 2](https://github.com/sathiyapriyacs/Keeper-Application/assets/167292003/58ae8fa3-5de0-41c6-8138-9f77e851e0f0)
+![keeper project](https://github.com/sathiyapriyacs/Keeper-Application/assets/167292003/bab354d4-47cc-4e81-b376-2e4b741ce5fc)
+
+
 
 
